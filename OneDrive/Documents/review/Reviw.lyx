@@ -1,0 +1,120 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Developments in Packaging
+\end_layout
+
+\begin_layout Author
+Jenny Praveen
+\end_layout
+
+\begin_layout Abstract
+Packaging is intended to conveniently contain foods and to protect them
+ against a range of hazards during production, storage and distribution.
+ There are different packaging materials like metal, glass, paper and plastic.
+ 
+\end_layout
+
+\begin_layout Paragraph*
+Keywords
+\end_layout
+
+\begin_layout Standard
+Packaging, types of packaging materials, modified atmosphere packaging,
+ nanotechnology.
+\end_layout
+
+\begin_layout Paragraph*
+Introduction
+\end_layout
+
+\begin_layout Standard
+Over the past three decades there has been tremendous growth in food packaging
+ technologies such as aseptic processing, microwave packaging, controlled/modifi
+ed atmosphere packaging and sous-vide(vacuum cooking) technology in industrializ
+es countries worldwide.
+ This has resulted in a variety of new forms of convenience food products
+ with extended supermarket shelf lives.
+ The shelf life of many perishable foods is limited in the presence of atmospher
+ic oxygen due to three important factors : the chemical effect of atmospheric
+ oxygen, the growth of aerobic spoilage microorganisms and attack by insect
+ pests.
+ 
+\end_layout
+
+\end_body
+\end_document
